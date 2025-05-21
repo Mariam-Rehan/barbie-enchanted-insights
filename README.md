@@ -1,7 +1,7 @@
 # 💕 Barbie Enchanted Insights ✨
 *A data-powered deep dive into the world of Barbie movies and characters!*
 
-![barbie-banner](https://i.pinimg.com/originals/6d/41/5d/6d415d1d287237ef5c3b4b3d4d06bb7c.gif)
+![barbie-banner]((https://i.pinimg.com/originals/3d/60/34/3d603425768bd71a19ddce6f7b978cb6.gif))
 
 ## 👑 About the Project
 Barbie isn’t just a doll — she’s a data icon.  
@@ -29,6 +29,10 @@ I wanted to blend pop culture with analytics — showing that data storytelling 
 ---
 
 ## 💅 Aesthetic Preview
+
+| Main Page | Character + Movie Insights |
+|--------------------|----------------|
+| ![character](screenshots/main_page.png) | ![movie](screenshots/character_movie_insights.png) |
 
 | Character Overview | Movie Overview |
 |--------------------|----------------|
