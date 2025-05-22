@@ -1,5 +1,6 @@
 <div align="center">
-# 💕 Barbie Enchanted Insights ✨
+
+# 💕 Barbie Enchanted Insights ✨  
 *A data-powered deep dive into the world of Barbie movies and characters!*
 
 ![barbie-banner](https://i.pinimg.com/originals/3d/60/34/3d603425768bd71a19ddce6f7b978cb6.gif)
