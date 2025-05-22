@@ -11,7 +11,6 @@ Barbie isn’t just a doll — she’s a data icon.
 This Tableau dashboard explores trends across Barbie movies and characters, highlighting themes, appearances, and insights only Barbie fans would *truly* appreciate.  
 
 > 📍 Built using Tableau  
-> 💡 Data collected and cleaned manually from Barbie movies  
 > 🛍️ Topics covered: character frequency, movie insights, cross-character analysis, and more!
 
 ## 📊 Explore the Dashboard
